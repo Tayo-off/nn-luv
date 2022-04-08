@@ -1,0 +1,11 @@
+html, body, #allrecords{
+    background: #111;
+}
+
+a{
+    transition: 0.5s;
+}
+
+a:hover{
+    color: gold;
+}
